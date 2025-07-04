@@ -67,8 +67,14 @@ Total 1 - 10 | 8 | 7 | 9 |
     1. In einem Windows-Terminal ```wsl  --install``` ausführen. Dies sollte Ubuntu WSL installieren. WSL kann danach über ```wsl``` im Terminal gestartet werden.
     - Andere Linux-Distributionen können entweder durch
         - ```wsl --list --online``` gesucht werden und mit ```wsl --install [Distributionsname]``` installiert werden.
+        - ![WSL list online](./wsl_list_online.png)
+        - ![Debian Install](./wsl_install_debian.png)
         - den Microsoft Store installiert werden.
+        - ![Alpine WSL](./alpine_wsl.png)
         - oder durch eine .wsl Datei mit ```wsl --install --from-file {Pfad zur .wsl Datei}``` installiert werden.
+        - ![RockyLinux download](./rocky_wsl_dl.png)
+        - ![RockyLinux from File](./wsl_install_fromfile.png)
+        
     - Um unterschidliche Distributionen zu starten , in einem Terminal ```wsl -d [Distributionsname]``` ausführen.
     - Um eine Distribution zu entfernen, ```wsl --unregister [Distributionsname]``` ausführen
 - Virtuelle Maschiene
