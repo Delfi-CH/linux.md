@@ -1,5 +1,9 @@
 # Linux
 
+Bei Fragen bitte an L. Spitzer (Delfi-CH) melden.
+
+Pull Requests und Contributions sind erwünscht.
+
 ## Wichtige Begriffe:
 | Begriff | Definition |
 | - | - |
