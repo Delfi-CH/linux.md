@@ -7,16 +7,16 @@ Pull Requests und Contributions sind erwünscht.
 ## Wichtige Begriffe:
 | Begriff | Definition |
 | - | - |
-| Freie Software | Freie Software, ist Software, welche die Freiheiten des Benutzers wie die Freiheit die Software zu verteilen, untersuchen und modifizieren.|
+| Freie Software | Freie Software ist eine Software, welche die Freiheiten des Benutzers, wie die Freiheit die Software zu verteilen, untersuchen und modifizieren.|
 | Open-Source | Open-Source Software ist Software, bei welcher der Quellcode öffentlich verfügbar ist (bsp. auf GitHub) und jeder diesen untersuchen und modifizieren kann. Da sich einige Ziele von Open-Source und Freier Software überschneiden, ist Freie Software meist auch Open-Source Software.|
-| Kernel | Ein Kernel ist der Kern eines Betriebsystems. Er ist für viele hardware-nahe Prozesse zuständig und bildet eine Basis, worauf andere Software darauf aufbaut. Der Endbenutzer interagiert fast nie mit dem Kernel. |
-| Userspace / Userland | Das Userland ist der Teil des Betriebsystems, mit welchem der Endbenutzer interagiert (bsp. Terminal, Graphische Oberfäche, Applikatoionen, etc..). |
-| UNIX | UNIX ist ein Betriebssystem, welches 1969 in den Bell Labs des Mobilfunkandbieters AT&T entwickelt wurde. Wichtige Konzepte, welche heute noch relevant sind, wie das "Stammverzeichniss", "Alles ist eine Datei" und die Shell stammen von UNIX. Viele wichtige Betriebsysteme haben ihren Anfang in UNIX. |
-| UNIX-ähnich | Ein UNIX-ähnich Betriebsystem ist ein Betriebsystem, welches versucht, sich ähnlich wie UNIX zu verhalten, aber nicht UNIX ist.|
-| Shell | Die Shell (oft auch UNIX-Shell, Konsole, Kommandozeile oder Terminal genannt) ist ein texbasiertes User-Interface sowie ein Interpretierer für Shell-Scrips, welches in jedem UNIX oder UNIX-ähnlichem Betriebsystem vorhanden ist. |
-| Interpretier und Kompillierer | Bevor ein Computer Code ausführen kann, muss dieser von für menschlich lesbaren Programmiersprachen (C, JAVA, JAVAScript, Python, Rust, etc.) zu Binär übersetzt werden. Interpretier und Kompillierer sind Software, welche genau dies (in unterschiedlichen Wegen) machen. |
-|Kernutensilien| Die Kernutensilien sind eine Gruppe an einfachen, aber wichtigen Kommandozeilen-Applikatonen, welche in jedem UNIX und UNIX-ähnlichen Betriebsystem vorhanden sind. Es gibt viele Implementierungen der Kernutensilien von verschieden Projekten(bsp. GNU Coreuitls, Busybox, BSD Coreutils, etc..) |
-| GNU-Projekt | Das GNU-Projekt (GNU ist ein rekursives Akronym: "GNU's  not UNIX" (DE: GNU ist nicht UNIX)) hat das Ziel, ein UNIX-ähnliches Betriebsystem, welches unter einer Freien Software Lizenz lizensiert ist, zu erstellen. Neben einem eigenen Kernel (GNU Hurd), wurden auch eigene Kernutensilien (GNU Coreutils), ein eigener Kompillierer für C, C++ und weiteren Sprachen (GCC) und eine eigene Shell (BASH) für dieses Betriebsystem erstellt. |
+| Kernel | Ein Kernel ist der Kern eines Betriebssystems. Er ist für viele hardware-nahe Prozesse zuständig und bildet eine Basis, worauf andere Software darauf aufbaut. Der Endbenutzer interagiert fast nie mit dem Kernel. |
+| Userspace / Userland | Das Userland ist der Teil des Betriebssystems, mit welchem der Endbenutzer interagiert (bsp. Terminal, Graphische Oberfäche, Applikatoionen, etc..). |
+| UNIX | UNIX ist ein Betriebssystem, welches 1969 in den Bell Labs des Mobilfunkandbieters AT&T entwickelt wurde. Wichtige Konzepte, welche heute noch relevant sind, wie das "Stammverzeichniss", "Alles ist eine Datei" und die Shell stammen von UNIX. Viele wichtige Betriebssysteme haben ihren Anfang in UNIX. |
+| UNIX-ähnich | Ein UNIX-ähnich Betriebssystem ist ein Betriebssystem, welches versucht, sich ähnlich wie UNIX zu verhalten, aber nicht UNIX ist.|
+| Shell | Die Shell (oft auch UNIX-Shell, Konsole, Kommandozeile oder Terminal genannt) ist ein texbasiertes User-Interface sowie ein Interpret für Shell-Scrips, welches in jedem UNIX oder UNIX-ähnlichem Betriebssystem vorhanden ist. |
+| Interpret und Kompilierer | Bevor ein Computer Code ausführen kann, muss dieser von für menschlich lesbaren Programmiersprachen (C, JAVA, JAVAScript, Python, Rust, etc.) zu Binär übersetzt werden. Interpret und Kompilierer sind Software, welche genau dies (in unterschiedlichen Wegen) machen. |
+|Kernutensilien| Die Kernutensilien sind eine Gruppe an einfachen, aber wichtigen Kommandozeilen-Applikatonen, welche in jedem UNIX und UNIX-ähnlichen Betriebssystem vorhanden sind. Es gibt viele Implementierungen der Kernutensilien von verschieden Projekten(bsp. GNU Coreuitls, Busybox, BSD Coreutils, etc..) |
+| GNU-Projekt | Das GNU-Projekt (GNU ist ein rekursives Akronym: "GNU's  not UNIX" (DE: GNU ist nicht UNIX)) hat das Ziel, ein UNIX-ähnliches Betriebssystem, welches unter einer Freien Software Lizenz lizensiert ist, zu erstellen. Neben einem eigenen Kernel (GNU Hurd), wurden auch eigene Kernutensilien (GNU Coreutils), ein eigener Kompilierer für C, C++ und weiteren Sprachen (GCC) und eine eigene Shell (BASH) für dieses Betriebssystem erstellt. |
 |GNU GPL| Die GNU GPL (GNU General Public License) ist eine Freie Software Lizenz, welche dem Endbenutzer die Rechte gibt, die Software ohne Einschränkungen zu benutzen, den Quellcode zu untersuchen, Modifikationen an der Software forzunehmen, sowie die ursprüngliche und modifizerte Software unter der GNU GPL weiterzuverbreiten |
 | Distribution | Eine Software-Distribuion ist eine Sammlung von Paketen / Software, um die Nutzug und Installation einer bestimmten Software zu vereinfachen |
 | Pakete / Paktet-Manager | In den meisten Linux-und UNIX-ähnlichen Systemen wird Sofware als ein Paket über einen Paktet-Manager installiert. Je nach Distribution werden Pakete unterschildich installiert. |
@@ -25,7 +25,7 @@ Pull Requests und Contributions sind erwünscht.
 
 Linux ist ein Unix-ähnlicher Kernel, welcher von Linus Torvalds als Hobbyprojekt entwickelt wurde und 1991 zuerst unter einer selbstgeschrieben Lizenz von Torvalds,  später unter der GNU General Public License Version 2 herausgebracht wurde.
 
-Umgangsprachlich wird aber mit Linux meist ein vollstänges Betriebsystem / eine Linux-Distribution gemeint.
+Umgangsprachlich wird aber mit Linux meist ein vollstänges Betriebssystem / eine Linux-Distribution gemeint.
 
 Eine Linux-Distribution besteht aus: dem Linux Kernel, einer Implementierung der Kernutensilien einer Shell, sowie meist noch mehr Software, wie Texteditoren, weitere Kommandozeilen-Applikatonen, eine graphishe Benutzeroberfläche, etc.. Meistens werden für die Kernutensilien sowie die Shell die Implementierung des GNU-Projekts benutzt, da diese unter einer Freien Software Lizenz verfügbar sind. Deshalb wird manchmal Linux auch als GNU/Linux bezeichnet
 
@@ -35,9 +35,9 @@ Da der Linux-Kernel, sowie die Software welche oft mit diesem verwendet wird, un
 
  | Name | Erscheinungsdatum | Basiert auf | Eigenschaften | Versionszyklus | Paketverwaltung | Nutzungszweck | Sonstiges |
 | - | - | - | - | - | - | - | - |
-| Debian GNU/Linux| 1993 | nichts | legt starken Wert auf Freie Software, stabile Software | Neue Version alle 2 Jahre mit Bugfixes dazwischen. | dpkg via apt | Desktop-Betriebsystem, Server | wird von der Gemeinschaft entwickelt |
-| Ubuntu Linux | 2004 | Debian | Benutzerfreunlichkeit, Barrierefreiheit | Neue Version alle 6 Monate, Neue LTS*-Versionen alle 2 Jahre | dpkg via apt, Snap | Desktop-Betriebsystem, Server, Unternehmen | wird von der Firma Canonical herausgegeben |
-| Fedora Linux | 2003 | RedHat Linux | legt starken Wert auf Freie Software | Neue Version alle 6 Monate, | rpm via dnf, Flatpak | Desktop-Betriebsystem, Server | wird von der Gemeinschaft entwickelt, aber von der Firma RedHat gesponsort | 
+| Debian GNU/Linux| 1993 | nichts | legt starken Wert auf Freie Software, stabile Software | Neue Version alle 2 Jahre mit Bugfixes dazwischen. | dpkg via apt | Desktop-Betriebssystem, Server | wird von der Gemeinschaft entwickelt |
+| Ubuntu Linux | 2004 | Debian | Benutzerfreunlichkeit, Barrierefreiheit | Neue Version alle 6 Monate, Neue LTS*-Versionen alle 2 Jahre | dpkg via apt, Snap | Desktop-Betriebssystem, Server, Unternehmen | wird von der Firma Canonical herausgegeben |
+| Fedora Linux | 2003 | RedHat Linux | legt starken Wert auf Freie Software | Neue Version alle 6 Monate, | rpm via dnf, Flatpak | Desktop-Betriebssystem, Server | wird von der Gemeinschaft entwickelt, aber von der Firma RedHat gesponsort | 
 | Red Hat Enterprise Linux | 2002 | nichts | kommerziell, kostet Geld, stabil, sicher, zuverlässig | Neue Version alle 3 Jahre, welche für 10 Jahre unterstützt werden | rpm via dnf, Flatpak | Grosse Unternehmen | - |
 | Arch Linux | 2002 | nichts | KISS: "Keep it simple Stupid", minimale Grundinstallation | Rolling Release, d.h. Software wird geupdated, wenn ein Update verfügbar ist | pacman, Flatpak, Snap | Deskop-Betiebsystem | grosse Gemeinschaft und Wiki, nicht für Einsteiger geignet |
 
@@ -60,10 +60,12 @@ Es gibt 3 verschiedene Wege, auf einem x86-Intel/AMD PC Linux zu installiern.
 | - | - | - | - |
 | Graphische Benutzeroberfläche | Nein, aber einzelne graphische Applikationen können ausgeführt werden | Ja, aber langsam | Ja |
 | Zugriff auf Windows Dateien | Ja, kompletter Zugriff auf das Windows-Dateisystem | Ja, durch geteilte Ordner | Ja, durch NTFS Treiber |
-| Geschwindigkeit | Langsam, da über Hypervisor | Langsam, da über Hypervisor | Schnell, da es direkt auf der Hardware läuft |
+| Geschwindigkeit | Langsam, da über Hypervisor* | Langsam, da über Hypervisor* | Schnell, da es direkt auf der Hardware läuft |
 |Schwierigkeitsgrad 1-10 | 5 | 7 | 8 | 
 Empfehlungsgrad 1-10 | 7 | 6 | 8 |
 Total 1 - 10 | 8 | 7 | 9 |
+
+*Der Hypervisor ist die Software, die die Kommunikation zwischen Hardware und VM ermöglicht. In den meisten Fällen handelt es sich um einen Type-2-Hypervisor, da er auf dem sogenannten Host OS, also der primären Windowsinstallation, läuft und über diese mit der Hardware kommunizieren muss.
 
 ### Installation
 
