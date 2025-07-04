@@ -1,5 +1,25 @@
 # Linux
 
+## Inhaltsverzeichnis
+
+**1. [Inhaltsverzeichnis](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#inhaltsverzeichnis)**
+
+**2. [Wichtige Begriffe](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#wichtige-begriffe)**
+
+**3**
+
+- **3a. [Was ist Linux](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#was-ist-linux)**
+
+- **3b. [Übersicht der grossen Linux-Distributionen](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#%C3%BCbersicht-der-grossen-linux-distributionen)**
+
+**4**
+
+- **4a. [Linux installieren](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#linux-installieren)**
+
+- **4b. [Möglichkeiten](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#m%C3%B6glichkeiten)**
+ 
+- **4c. [Installation](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#installation)**
+
 ## Wichtige Begriffe:
 | Begriff | Definition |
 | - | - |
@@ -36,8 +56,6 @@ Da der Linux-Kernel, sowie die Software welche oft mit diesem verwendet wird, un
 | Fedora Linux | 2003 | RedHat Linux | legt starken Wert auf Freie Software | Neue Version alle 6 Monate, | rpm via dnf, Flatpak | Desktop-Betriebsystem, Server | wird von der Gemeinschaft entwickelt, aber von der Firma RedHat gesponsort | 
 | Red Hat Enterprise Linux | 2002 | nichts | kommerziell, kostet Geld, stabil, sicher, zuverlässig | Neue Version alle 3 Jahre, welche für 10 Jahre unterstützt werden | rpm via dnf, Flatpak | Grosse Unternehmen | - |
 | Arch Linux | 2002 | nichts | KISS: "Keep it simple Stupid", minimale Grundinstallation | Rolling Release, d.h. Software wird geupdated, wenn ein Update verfügbar ist | pacman, Flatpak, Snap | Deskop-Betiebsystem | grosse Gemeinschaft und Wiki, nicht für Einsteiger geignet |
-
-## Wie kann ich Linux benutzen
 
 ## Linux installieren
 
