@@ -37,6 +37,10 @@ Da der Linux-Kernel, sowie die Software welche oft mit diesem verwendet wird, un
 | Red Hat Enterprise Linux | 2002 | nichts | kommerziell, kostet Geld, stabil, sicher, zuverlässig | Neue Version alle 3 Jahre, welche für 10 Jahre unterstützt werden | rpm via dnf, Flatpak | Grosse Unternehmen | - |
 | Arch Linux | 2002 | nichts | KISS: "Keep it simple Stupid", minimale Grundinstallation | Rolling Release, d.h. Software wird geupdated, wenn ein Update verfügbar ist | pacman, Flatpak, Snap | Deskop-Betiebsystem | grosse Gemeinschaft und Wiki, nicht für Einsteiger geignet |
 
+Um weitere Linux-Distributionen zu finden lohnt es sich die Website [https://distrowatch.com/](https://distrowatch.com/) zu besuchen.
+
+Für unsere Zwecke wird Ubuntu, oder eine Disrtribution, welche auf Ubuntu basiert empfohlen.
+
 ## Wie kann ich Linux benutzen
 
 ## Linux installieren
