@@ -16,14 +16,14 @@ Pull Requests und Contributions sind erwünscht.
 | Shell | Die Shell (oft auch UNIX-Shell, Konsole, Kommandozeile oder Terminal genannt) ist ein texbasiertes User-Interface sowie ein Interpretierer für Shell-Scrips, welches in jedem UNIX oder UNIX-ähnlichem Betriebsystem vorhanden ist. |
 | Interpretier und Kompillierer | Bevor ein Computer Code ausführen kann, muss dieser von für menschlich lesbaren Programmiersprachen (C, JAVA, JAVAScript, Python, Rust, etc.) zu Binär übersetzt werden. Interpretier und Kompillierer sind Software, welche genau dies (in unterschiedlichen Wegen) machen. |
 |Kernutensilien| Die Kernutensilien sind eine Gruppe an einfachen, aber wichtigen Kommandozeilen-Applikatonen, welche in jedem UNIX und UNIX-ähnlichen Betriebsystem vorhanden sind. Es gibt viele Implementierungen der Kernutensilien von verschieden Projekten(bsp. GNU Coreuitls, Busybox, BSD Coreutils, etc..) |
-| GNU-Projket | Das GNU-Projekt (GNU ist ein rekursives Akronym: "GNU's  not UNIX" (DE: GNU ist nicht UNIX)) hat das Ziel, ein UNIX-ähnliches Betriebsystem, welches unter einer Freien Software Lizenz lizensiert ist, zu erstellen. Neben einem eigenen Kernel (GNU Hurd), wurden auch eigene Kernutensilien (GNU Coreutils), ein eigener Kompillierer für C, C++ und weiteren Sprachen (GCC) und eine eigene Shell (BASH) für dieses Betriebsystem erstellt. |
+| GNU-Projekt | Das GNU-Projekt (GNU ist ein rekursives Akronym: "GNU's  not UNIX" (DE: GNU ist nicht UNIX)) hat das Ziel, ein UNIX-ähnliches Betriebsystem, welches unter einer Freien Software Lizenz lizensiert ist, zu erstellen. Neben einem eigenen Kernel (GNU Hurd), wurden auch eigene Kernutensilien (GNU Coreutils), ein eigener Kompillierer für C, C++ und weiteren Sprachen (GCC) und eine eigene Shell (BASH) für dieses Betriebsystem erstellt. |
 |GNU GPL| Die GNU GPL (GNU General Public License) ist eine Freie Software Lizenz, welche dem Endbenutzer die Rechte gibt, die Software ohne Einschränkungen zu benutzen, den Quellcode zu untersuchen, Modifikationen an der Software forzunehmen, sowie die ursprüngliche und modifizerte Software unter der GNU GPL weiterzuverbreiten |
 | Distribution | Eine Software-Distribuion ist eine Sammlung von Paketen / Software, um die Nutzug und Installation einer bestimmten Software zu vereinfachen |
 | Pakete / Paktet-Manager | In den meisten Linux-und UNIX-ähnlichen Systemen wird Sofware als ein Paket über einen Paktet-Manager installiert. Je nach Distribution werden Pakete unterschildich installiert. |
 
 ## Was ist Linux
 
-Linux ist ein Unix-ähnlicher Kernel, welcher von Linus Torvalds als Hobbyprojekt entwickelt wurde und 1991 zuerst unter einer selbstgeschrieben Lizenz von Torvalds,  später unter der GNU Genral Public License Version 2 herausgebracht wurde.
+Linux ist ein Unix-ähnlicher Kernel, welcher von Linus Torvalds als Hobbyprojekt entwickelt wurde und 1991 zuerst unter einer selbstgeschrieben Lizenz von Torvalds,  später unter der GNU General Public License Version 2 herausgebracht wurde.
 
 Umgangsprachlich wird aber mit Linux meist ein vollstänges Betriebsystem / eine Linux-Distribution gemeint.
 
