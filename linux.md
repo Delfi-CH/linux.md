@@ -6,19 +6,23 @@
 
 **2. [Wichtige Begriffe](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#wichtige-begriffe)**
 
-**3**
+**3.**
 
 - **3a. [Was ist Linux](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#was-ist-linux)**
 
 - **3b. [Übersicht der grossen Linux-Distributionen](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#%C3%BCbersicht-der-grossen-linux-distributionen)**
 
-**4**
+**4.**
 
 - **4a. [Linux installieren](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#linux-installieren)**
 
 - **4b. [Möglichkeiten](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#m%C3%B6glichkeiten)**
  
 - **4c. [Installation](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#installation)**
+
+**5. Vorteile von Linux**
+
+**6. Der Linux Grafik-Stack**
 
 --------
 Bei Fragen bitte an L. Spitzer (Delfi-CH) melden.
@@ -127,3 +131,28 @@ Total 1 - 10 | 8 | 7 | 9 |
     - Sollte dies nicht funktionieren:
         - In BIOS/UEFI Firmware SecureBoot deaktivieren.
     10. Linux duch das Live-Enviroment installieren.
+
+## Die Vorteile von Linux
+
+- **Freie, Open-Source Software**
+    
+    Da Linux-Distributionen fast immer aus Freier, Open-Source Software bestehen, bietet dies viele Vorteile. Da der Quellcode öffentlich verfügbar ist, kann dieser auf Fehler sowie Sicherheitsrisiken untersucht und ausgebessert werden.
+
+    - **Privatsphäre**
+        
+        Dank des öffentlich verfügbarem Quellcodes sowie der fehlender Involvierung grosser Firmen in den meisten Distributionen bieten viele Distributionen eine bessere Privatsphäre als Windows oder MacOS da keine Spyware dieser Firmen vorhanden ist.
+
+- **Leistung**
+    - Durch die fehlende Spyware, der grossen Auswahl an Software und der grossen Gemeinschaft haben die meisten Distributionen eine (meist minimal) grössere Leistung als andere Betriebsysteme
+
+- Utility
+    - Lorem Ipsum
+- Hardwarenah
+    - Lorem Ipsum
+
+
+## Der Linux Grafik-Stack
+
+![Diagram of the Linux Graphics Stack](./linux_graphics_stack.png)
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
