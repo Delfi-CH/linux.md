@@ -20,7 +20,7 @@
  
 - **4c. [Installation](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#installation)**
 
-**5. Vorteile von Linux**
+**5. [Vorteile von Linux](https://github.com/Delfi-CH/linux.md/blob/main/linux.md#die-vorteile-von-linux)**
 
 **6. Der Linux Grafik-Stack**
 
@@ -68,7 +68,7 @@ Da der Linux-Kernel, sowie die Software welche oft mit diesem verwendet wird, un
 
 Um weitere Linux-Distributionen zu finden lohnt es sich die Website [https://distrowatch.com/](https://distrowatch.com/) zu besuchen.
 
-Für unsere Zwecke wird Ubuntu, oder eine Disrtribution, welche auf Ubuntu basiert empfohlen.
+Für unsere Zwecke wird [Ubuntu](https://ubuntu.com/desktop), oder eine Disrtribution, welche auf Ubuntu basiert (beispielsweise [Linux Mint](https://linuxmint.com/)) empfohlen.
 
 ## Wie kann ich Linux benutzen
 
@@ -119,7 +119,7 @@ Total 1 - 10 | 8 | 7 | 9 |
     3. Neue Virtuelle Maschiene erstellen und mit der .iso Datei als virtuelle CD/DVD starten.
     4. Linux-Distibution installieren (siehe Dualboot Schritte 9-10)
 - Dualboot
-    1. Voraussetzungen: 8GB oder grösser USB-Stick, circa 50GB Speicherplatz
+    1. Voraussetzungen: 8GB oder grösser USB-Stick, circa 50GB Speicherplatz empfohlen, Mindestspeicherplatz variert je nach Distibution.
     2. .iso Datei der Linux-Distributon herunterladen.
     3. .iso Datei mit Rufus, baleaner Etcher oder anderer Software auf USB flashen
     4. In Windows BitLocker deaktivieren
@@ -140,15 +140,11 @@ Total 1 - 10 | 8 | 7 | 9 |
 
     - **Privatsphäre**
         
-        Dank des öffentlich verfügbarem Quellcodes sowie der fehlender Involvierung grosser Firmen in den meisten Distributionen bieten viele Distributionen eine bessere Privatsphäre als Windows oder MacOS da keine Spyware dieser Firmen vorhanden ist.
+        Dank des öffentlich verfügbarem Quellcodes sowie der fehlender Involvierung grosser Firmen in den meisten Distributionen bieten viele Distributionen eine bessere Privatsphäre als Windows oder MacOS da keine Spyware vorhanden ist.
 
 - **Leistung**
-    - Durch die fehlende Spyware, der grossen Auswahl an Software und der grossen Gemeinschaft haben die meisten Distributionen eine (meist minimal) grössere Leistung als andere Betriebsysteme
+    - Durch die fehlende Spyware, der grossen Auswahl an Software und der grossen Gemeinschaft haben die meisten Distributionen eine (minimal) bessere Leistung als andere Betriebsysteme
 
-- Utility
-    - Lorem Ipsum
-- Hardwarenah
-    - Lorem Ipsum
 
 
 ## Der Linux Grafik-Stack
